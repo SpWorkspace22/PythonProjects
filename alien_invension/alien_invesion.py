@@ -10,7 +10,7 @@ from button import Button
 from scoreboard import Scoreboard
 import game_function as gf
 
-
+#
 def run_game():
     #initialize game and set initial screen
     pygame.init()
